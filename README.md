@@ -43,9 +43,9 @@ Google Workspace (Drive, Docs, Sheets, Slides)
 Markdown Language
 Tcpdump
 Wireshark
-Linux OS
+Kali Linux
 SQL
-Chronicle
+Metasploit
 Splunk
 Suricata
 Python

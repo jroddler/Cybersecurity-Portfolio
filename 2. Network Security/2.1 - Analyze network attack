@@ -16,6 +16,7 @@ Identify the Type of Attack That May Have Caused This Network Interruption
 One potential explanation for the website's connection timeout error message is: DOS attack
 The logs show that: Web server stops responding after receiving so many SYN packet requests
 This event could be: Syn flood attack
+
 Part 2: Explain How the Attack is Causing the Website Malfunction
 
 When website visitors try to establish a connection with the web server, a three-way handshake occurs using the TCP protocol. Explain the three steps of the handshake:

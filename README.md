@@ -3,7 +3,7 @@
 Professional Statement
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Motivated IT professional with a Bachelor of Arts in Cybersecurity  and a track record of success in IT support and system administration.  Experienced in end-user support for Windows and Android systems, Active Directory, Office 365, cloud services, hardware/software troubleshooting, and network configurations. Possess CompTIA Security+ certification  and am pursuing further certifications (LFCA, CompTIA A+, CompTIA Network+) to enhance my skills in security and related areas.  Driven by strong analytical, problem-solving, and communication skills to excel, with a career goal of becoming a Security Analyst.
+Motivated IT professional with a Bachelor of Arts in Cybersecurity  and a track record of success in IT support and system administration.  Experienced in end-user support for Windows and Android systems, Active Directory, Office 365, cloud services, hardware/software troubleshooting, and network configurations. Possess CompTIA A+ certification  and pursuing further certifications (NEt+, CCNA, CEH) to enhance my skills in security and related areas.  Driven by strong analytical, problem-solving, and communication skills to excel, with a career goal of becoming a Security Analyst.
 
 
 Portfolio
